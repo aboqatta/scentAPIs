@@ -1,0 +1,6 @@
+@ScentWebsote.API_HostAddress = http://localhost:5244
+
+GET {{ScentWebsote.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
